@@ -65,4 +65,24 @@ stylestitch/
 ├── requirements.txt
 └── README.md# suryatop-StyleStitch-Cloth-Recommendation-Application-
 </pre>
+</br>
+Entity–relationship model:
+<img src ="https://github.com/user-attachments/assets/a7339696-1aab-4ac0-96e5-909f1a06aebc">
+</br>
+</br>
+Flow chart:
+<img src="https://github.com/user-attachments/assets/1c56cf56-99f5-4605-9101-82b42bf7b3c2">
+</br>
+</br>
+Use Case:
+<img src = "https://github.com/user-attachments/assets/2161589b-8a75-4373-a782-5e0f48d1f214">
+</br>
+</br>
+Preview:
+<img width="1439" alt="location" src="https://github.com/user-attachments/assets/12905d4d-9d68-4895-8c0b-af5f8279e6e6" />
+</br>
+</br>
+Recommendation_Engine:
+<img width="1221" alt="recommendation_engine" src="https://github.com/user-attachments/assets/59ee7919-a3af-4912-bf10-3d439e669d49" />
+
 
