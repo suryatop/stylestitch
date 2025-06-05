@@ -1,4 +1,4 @@
-StyleStitch
+#StyleStitch
 StyleStitch is a web application that utilizes Convolutional Neural Networks (CNN) for fashion image recommendations. The application allows users to upload images of their clothing items and receive similar product suggestions based on deep learning algorithms.
 
 Table of Contents
