@@ -54,7 +54,8 @@ Open your browser and navigate to http://localhost:3000 to access the applicatio
 
 Upload an image of your clothing item and receive recommendations!
 
-Directory Structure
+<pre>
+  Directory Structure
 stylestitch/
 ├── src/
 │   ├── Component/
@@ -69,5 +70,6 @@ stylestitch/
 ├── .venv/
 ├── requirements.txt
 └── README.md# suryatop-StyleStitch-Cloth-Recommendation-Application-
+</pre>
 # suryatop-StyleStitch-Cloth-Recommendation-Application-
 # suryatop-StyleStitch-Cloth-Recommendation-Application-
